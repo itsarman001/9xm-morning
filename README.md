@@ -4,7 +4,7 @@
 
 Inspired by [saloon.wtf](https://saloon.wtf), this app drops you into a cozy old Indian living room — a girl on the sofa, warm morning light — with a **functional remote control** as the only interactive element. No screens, no dashboards. Just music and atmosphere.
 
-**Live:** [remote-kiske-paas.vercel.app](https://github.com/itsarman001/Remote-Kiske-Paas) · **Source playlist:** [YouTube](https://youtube.com/playlist?list=PLu1VwkFUm56jdkb3_AK9KHBOudjDQ3-J9)
+**Live:** [https://9xm-morning.vercel.app/](https://9xm-morning.vercel.app/) · **Source playlist:** [YouTube](https://youtube.com/playlist?list=PLu1VwkFUm56jdkb3_AK9KHBOudjDQ3-J9)
 
 ---
 
