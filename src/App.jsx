@@ -21,7 +21,7 @@ export function App() {
       />
 
       {/* Background illustration & Central typography */}
-      <BackgroundScene isRemoteActive={isRemoteModeActive} />
+      <BackgroundScene />
 
       {/* Top Bar (matching saloon.wtf reference screenshot layout) */}
       <Header />
